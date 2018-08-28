@@ -1,5 +1,5 @@
 /*
-Link : 
+Link : https://www.geeksforgeeks.org/find-nth-term-series-136101521/
 
 Given a number n, find the n-th term in the series 1, 3, 6, 10, 15, 21…
 
